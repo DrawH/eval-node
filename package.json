@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/DrawH/eval-node#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.17.1",
     "nodemon": "^1.19.2",
     "omdbapi": "^3.0.0"
